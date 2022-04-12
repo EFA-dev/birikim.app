@@ -1,23 +1,22 @@
 
-## Fikir / Mimari / Test
+### Fikir / Mimari / Test
+---  
+Mahmut Şan
+
+Arif Civan
+
+Fırat Tabak
+
+Cem Demir
+
+### Tasarım
 ---
+Hasan Yılmaz  
 
-**Mahmut Şan**
-
-**Arif Civan**
-
-**Fırat Tabak**
-
-**Cem Demir**
-
-## Tasarım
+### Donanım / Geliştirme Desteği
 ---
-**Hasan Yılmaz**
+Kodiks Bilişim  
 
-## Donanım / Geliştirme Desteği
+ ### Güncel Kur / Altın Bilgisi
 ---
-**Kodiks Bilişim**
-
- ## Güncel Kur / Altın Bilgisi
----
- **Harem Altın**
+ Harem Altın
