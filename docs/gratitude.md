@@ -1,22 +1,28 @@
 ##### Fikir / Mimari / Test
 ---  
-- Mahmut Şan
+- ###### Mahmut Şan 
+Mütercim Tercüman
 
-- Arif Civan
+- ###### Arif Civan
+İslam iktisadı ve Finans
 
-- Fırat Tabak
+- ###### Fırat Tabak
+Yüksek Elektronik Mühendisi
 
-- Cem Demir  
+- ###### Cem Demir  
+Kimyager
 
 ##### Tasarım
 ---
-- Hasan Yılmaz  
+- ###### Hasan Yılmaz  
+Tasarım Uzmanı
 
 ##### Donanım Desteği
 ---
-- Kodiks Bilişim  
+- ###### Kodiks Bilişim  
+https://www.kodiks.com
 
  ##### Güncel Kur / Altın Bilgisi
 ---
-- Harem Altın  
-
+- ###### Harem Altın  
+https://haremaltin.com
