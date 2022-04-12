@@ -9,13 +9,11 @@ Mütercim Tercüman
 - ###### Fırat Tabak
 Elektrik Elektronik Yüksek Mühendisi
 
-- ###### Cem Demir  
-Kimyager
-
-##### Tasarım
----
 - ###### Hasan Yılmaz  
 Tasarım Uzmanı
+
+- ###### Cem Demir  
+Kimyager
 
 ##### Donanım Desteği
 ---
