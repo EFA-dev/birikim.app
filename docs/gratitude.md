@@ -1,7 +1,5 @@
 ##### Fikir / Mimari / Test
 ---  
-- ###### Mahmut Şan 
-Mütercim Tercüman
 
 - ###### Arif Civan
 İslam iktisadı ve Finans
@@ -9,11 +7,11 @@ Mütercim Tercüman
 - ###### Fırat Tabak
 Elektrik Elektronik Yüksek Mühendisi
 
-- ###### Hasan Yılmaz  
-Tasarım Uzmanı
-
 - ###### Cem Demir  
 Kimyager
+
+- ###### Hasan Yılmaz  
+Tasarım Uzmanı
 
 ##### Donanım Desteği
 ---
