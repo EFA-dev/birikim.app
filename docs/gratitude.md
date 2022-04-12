@@ -7,7 +7,7 @@ Mütercim Tercüman
 İslam iktisadı ve Finans
 
 - ###### Fırat Tabak
-Yüksek Elektronik Mühendisi
+Elektrik Elektronik Yüksek Mühendisi
 
 - ###### Cem Demir  
 Kimyager
