@@ -227,7 +227,7 @@ Kişisel verilerinizle ilgili sorularınızı ve taleplerinizi, Veri Sorumlusuna
 
 **7.2** Başvuru formunun tebligat zarfına veya e-postanın konu kısmına “Kişisel Verilerin Korunması Kanunu İlgili Kişi Talebi” yazılmasını rica ederiz. Kişisel veri sahipleri olarak, haklarınıza ilişkin taleplerinizi, EFA’ya iletmeniz durumunda EFA talebinizi en geç 30 (otuz) gün içinde ücretsiz olarak sonuçlandıracaktır. Ancak, başvurunuza verilecek yanıtın mevzuat uyarınca bir maliyet gerektirmesi halinde EFA tarafından Kişisel Verileri Koruma Kurulu tarafından belirlenen tarifedeki ücret talep edilebilecektir.
 
-**Madde 8. Aydinlatma Metni Hakkında**
+**Madde 8. Aydınlatma Metni Hakkında**
 
 EFA işbu Kişisel Verilerin Korunması Hakkında Açıklama metnini yürürlükteki mevzuatta yapılabilecek değişiklikler çerçevesinde her zaman güncelleme hakkını saklı tutar. 
 
