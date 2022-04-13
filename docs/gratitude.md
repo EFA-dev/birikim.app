@@ -1,3 +1,5 @@
+Birikim'in gelişimine verdiğiniz destekten dolayı teşekkür ederiz.  
+
 ##### Fikir / Mimari / Test
 ---  
 
