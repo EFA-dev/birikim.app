@@ -16,6 +16,9 @@ Tasarım Uzmanı
 - ###### Serhat Gülener  
 Analist
 
+- ###### Şevket Yılmaz  
+Yazılım Mühendisi
+
 ##### Donanım Desteği
 ---
 - ###### Kodiks Bilişim  
