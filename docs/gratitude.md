@@ -13,6 +13,9 @@ Kimyager
 - ###### Hasan Yılmaz  
 Tasarım Uzmanı
 
+- ###### Serhat Gülener  
+Analist
+
 ##### Donanım Desteği
 ---
 - ###### Kodiks Bilişim  
