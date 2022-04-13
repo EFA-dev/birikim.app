@@ -1,4 +1,4 @@
-Birikim'in gelişimine verdiğiniz destekten dolayı teşekkür ederiz.  
+###### Birikim'in gelişimine verdiğiniz destekten dolayı teşekkür ederiz.  
 
 ##### Fikir / Mimari / Test
 ---  
