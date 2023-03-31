@@ -214,11 +214,6 @@ Bu Aydınlatma Metni’nin “Hak ve Talepleriniz İçin İletişim” bölümü
 
 Kişisel verilerinizle ilgili sorularınızı ve taleplerinizi, Veri Sorumlusuna Başvuru Usul ve Esasları hakkında Tebliğ’de belirtilen şartlara uygun düzenlenmiş dilekçeyle aşağıdaki yöntemlerle iletebilirsiniz.
 
-- **Yazılı Başvuru**
-
-  EFA Haşim Yerlikaya
-  Balat Mahallesi Hızır Çavuş Mescidi Sokak No:40/A Fatih / İstanbul
-
 - **Elektronik başvuru**
 
   Şirketimize daha önce bildirilen ve sistemde kayıtlı bulunan elektronik posta adresinizden <info@birikim.app> adresine e-posta gönderebilirsiniz.
