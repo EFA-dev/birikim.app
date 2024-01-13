@@ -1,6 +1,6 @@
 ﻿**Gizlilik Politikası**
 
-İşbu Gizlilik Politikası’nın amacı, birikim.app adresinde yer alan siteye (“Site”) üye olarak kaydolan kişiler (“Kullanıcı(lar)”) tarafından Site’de yer alan Platform’dan faydalanılması aşamasında EFA Haşim Yerlikaya (“Şirket”) ile paylaşılan bilgi ve verilerin kullanımına ilişkin koşul ve şartları tespit etmektir. Gizlilik Politikası, Kullanıcı ile akdedilen Kullanıcı Sözleşmesi’nin eki ve ayrılmaz bir parçası niteliğindedir.
+İşbu Gizlilik Politikası’nın amacı, birikim.app adresinde yer alan siteye (“Site”) üye olarak kaydolan kişiler (“Kullanıcı(lar)”) tarafından Site’de yer alan Platform’dan faydalanılması aşamasında EFA (“Şirket”) ile paylaşılan bilgi ve verilerin kullanımına ilişkin koşul ve şartları tespit etmektir. Gizlilik Politikası, Kullanıcı ile akdedilen Kullanıcı Sözleşmesi’nin eki ve ayrılmaz bir parçası niteliğindedir.
 
 **Kullanıcı tarafından Site’ye yüklenen İçerik Kullanıcı’nın mülkiyetindedir. Şirket, bu İçerik’i Kullanıcı’nın önceden onayını almaksızın açıklamayacak veya satmayacaktır.**
 
