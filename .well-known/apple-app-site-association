@@ -1,0 +1,25 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "79S2VKLWU7.app.birikim.mobile"
+                ],
+                "paths": [
+                    "*"
+                ],
+                "components": [
+                    {
+                        "/": "/*"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "79S2VKLWU7.app.birikim.mobile"
+        ]
+    }
+}

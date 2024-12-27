@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "app.birikim.mobile",
+            "sha256_cert_fingerprints": [
+                "66:76:C0:0B:31:8D:38:74:1B:89:88:D8:9F:7C:5D:E4:A1:59:BF:CE:CB:8D:3A:C1:1F:64:C9:D0:66:58:17:9E"
+            ]
+        }
+    }
+]
