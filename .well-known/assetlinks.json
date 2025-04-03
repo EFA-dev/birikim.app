@@ -7,7 +7,9 @@
             "namespace": "android_app",
             "package_name": "app.birikim.mobile",
             "sha256_cert_fingerprints": [
-                "66:76:C0:0B:31:8D:38:74:1B:89:88:D8:9F:7C:5D:E4:A1:59:BF:CE:CB:8D:3A:C1:1F:64:C9:D0:66:58:17:9E"
+                "66:76:C0:0B:31:8D:38:74:1B:89:88:D8:9F:7C:5D:E4:A1:59:BF:CE:CB:8D:3A:C1:1F:64:C9:D0:66:58:17:9E",
+                "05:43:F1:FC:5B:DA:95:D7:B0:CD:8F:8C:B1:F7:EB:33:D4:7E:6B:AF:78:44:7B:5D:A8:5D:B1:9B:9B:E9:47:0E",
+                "00:BA:FE:25:7E:98:FB:8E:0C:93:8E:B6:FE:B1:E8:5C:67:79:42:FC:AA:F2:AD:DA:68:7A:65:26:85:84:F7:13"
             ]
         }
     }
