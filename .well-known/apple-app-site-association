@@ -6,12 +6,107 @@
                 "appIDs": [
                     "79S2VKLWU7.app.birikim.mobile"
                 ],
-                "paths": [
-                    "*"
-                ],
                 "components": [
                     {
-                        "/": "/*"
+                        "/": "/assets/*.*",
+                        "exclude": true,
+                        "comment": "The site's own images; an app path holds ids only, never a dot"
+                    },
+                    {
+                        "/": "/assets/svg/*",
+                        "exclude": true,
+                        "comment": "The site's own icons"
+                    },
+                    {
+                        "/": "/incomes",
+                        "comment": "The app's incomes (EFA links)"
+                    },
+                    {
+                        "/": "/incomes/*"
+                    },
+                    {
+                        "/": "/expenses",
+                        "comment": "The app's expenses (EFA links)"
+                    },
+                    {
+                        "/": "/expenses/*"
+                    },
+                    {
+                        "/": "/bills",
+                        "comment": "The app's bills (EFA links)"
+                    },
+                    {
+                        "/": "/bills/*"
+                    },
+                    {
+                        "/": "/vehicles",
+                        "comment": "The app's vehicles (EFA links)"
+                    },
+                    {
+                        "/": "/vehicles/*"
+                    },
+                    {
+                        "/": "/subscriptions",
+                        "comment": "The app's subscriptions (EFA links)"
+                    },
+                    {
+                        "/": "/subscriptions/*"
+                    },
+                    {
+                        "/": "/goals",
+                        "comment": "The app's goals (EFA links)"
+                    },
+                    {
+                        "/": "/goals/*"
+                    },
+                    {
+                        "/": "/assets",
+                        "comment": "The app's assets (EFA links)"
+                    },
+                    {
+                        "/": "/assets/*"
+                    },
+                    {
+                        "/": "/debts",
+                        "comment": "The app's debts (EFA links)"
+                    },
+                    {
+                        "/": "/debts/*"
+                    },
+                    {
+                        "/": "/habits",
+                        "comment": "The app's habits (EFA links)"
+                    },
+                    {
+                        "/": "/habits/*"
+                    },
+                    {
+                        "/": "/budgets",
+                        "comment": "The app's budgets (EFA links)"
+                    },
+                    {
+                        "/": "/budgets/*"
+                    },
+                    {
+                        "/": "/tasks",
+                        "comment": "The app's tasks (EFA links)"
+                    },
+                    {
+                        "/": "/tasks/*"
+                    },
+                    {
+                        "/": "/shopping",
+                        "comment": "The app's shopping (EFA links)"
+                    },
+                    {
+                        "/": "/shopping/*"
+                    },
+                    {
+                        "/": "/inbox",
+                        "comment": "The app's inbox (EFA links)"
+                    },
+                    {
+                        "/": "/inbox/*"
                     }
                 ]
             }
