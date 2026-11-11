@@ -24,6 +24,8 @@ Site üzerinden düzenlenebilecek olan periyodik veya periyodik olmayan anketler
 
 Sistemle ilgili teknik sorunların tanımlanması ve çözülmesi için, Şirket gereken hallerde kullanıcıların IP adresini tespit etmek ve kullanmak durumunda kalabilir. IP adresleri, ayrıca kullanıcıları genel bir şekilde tanımlamak ve kapsamlı demografik bilgi toplamak amacıyla da kullanılabilir.
 
+**Destek için cihaz kaydı.** Ayarlar → Destek'te bir destek kodu oluşturduğunuzda, uygulamanın cihazınızda tuttuğu teknik kayıtlar destek ekibimiz tarafından canlı olarak görüntülenebilir: uygulama ekranlarının adları, işlemlerin süresi ve sonucu, ağ isteklerinin adresi ve durumu, hatalar, uygulama ve cihaz sürümü ile abonelik durumu. Bu kayıtlar adınızı, e-posta adresinizi, telefon numaranızı ya da uygulamaya yazdıklarınızı içermez. Erişim, kod 24 saat beklerken ve açtığı destek erişimi sürdükçe (en çok 7 gün) açıktır; Ayarlar → Destek'ten istediğiniz zaman kapatabilirsiniz. Kayıtlar sunucularımızda saklanmaz; yalnızca okunurken, Avrupa Birliği'ndeki altyapı sağlayıcımız Supabase'in gerçek zamanlı hizmeti üzerinden aktarılır. Her görüntüleme kayıt altına alınır.
+
 Şirket, yukarıda anılan amaçlarla ilgili verileri Kullanıcı’nın ikamet ettiği ülke dışında dünyanın herhangi bir yerinde bulunan sunucularına (sunucular kendisine, bağlı şirketlerine veya alt yüklenicilerine ait olabilir) aktarma hakkına sahiptir.
 
 Site üzerinden başka site ve uygulamalara link verilmesi mümkün olup, Şirket’in bu site ve uygulamaların gizlilik uygulamaları ve içeriklerine yönelik herhangi bir sorumluluk taşımamaktadır.
